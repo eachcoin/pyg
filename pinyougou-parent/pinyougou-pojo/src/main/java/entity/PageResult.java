@@ -2,7 +2,6 @@ package entity;
 
 import java.io.Serializable;
 import java.util.List;
-
 /**
  * 分页结果类
  * @author Administrator

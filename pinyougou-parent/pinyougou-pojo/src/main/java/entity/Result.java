@@ -1,7 +1,6 @@
 package entity;
 
 import java.io.Serializable;
-
 /**
  * 返回结果
  * @author Administrator
