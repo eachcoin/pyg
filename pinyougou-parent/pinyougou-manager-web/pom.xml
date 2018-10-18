@@ -64,6 +64,15 @@
 		<groupId>com.alibaba</groupId>
 		<artifactId>fastjson</artifactId>
 	</dependency>
+    <dependency>
+	   <groupId>org.springframework.security</groupId>
+	   <artifactId>spring-security-web</artifactId>
+    </dependency>
+
+    <dependency>
+	   <groupId>org.springframework.security</groupId>
+	   <artifactId>spring-security-config</artifactId>
+    </dependency>
 	<dependency>
 		<groupId>javassist</groupId>
 		<artifactId>javassist</artifactId>
